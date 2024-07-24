@@ -1,3 +1,6 @@
+### 注意
+**目前纯真ip免费数据库已经不再通过微信推文发布下载链接，本Repository已失效，详情见[纯真官网](https://www.cz88.com/geo-public)**
+
 # qqwry.dat [![build](https://github.com/nmgliangwei/qqwry/actions/workflows/qqwry.yml/badge.svg)](https://github.com/nmgliangwei/qqwry/actions/workflows/qqwry.yml)
 **纯真IP数据库文件，dat数据非exe安装包，使用 Github Action 定时获得最新版本的IP库文件，每天会扫描5次（10:10 12:10 17:10 20:10 23:10），当发现更新时也可以选择手动运行来获得文件。**
 
